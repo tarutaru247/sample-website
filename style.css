@@ -302,3 +302,13 @@ main {
         font-size: 1.2rem;
     }
 }
+
+footer {
+    text-align: right;
+    padding: 20px 40px;
+    background-color: transparent;
+    color: white;
+    font-size: 0.9rem;
+    position: relative;
+    z-index: 3;
+}
